@@ -1,2 +1,2 @@
 # weekly_assesment_1
-abcd
+successfully completed my first weekly assesment
